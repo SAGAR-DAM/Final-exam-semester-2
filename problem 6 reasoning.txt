@@ -1,0 +1,6 @@
+PROBLEM 6 REASONONG
+SAGAR DAM
+
+The error is calculated and shown. It's not abrupt and hence means for smaller step size this will reduce and make the solution more correct. 
+I have used RK4 method and as the slope of the function decreases so the higher derivative contributes less and less as we proceed. So the contribution from higher terms are negligable and we get sufficiently good solution. 
+This is also clear from the nature of the graph. As we proceed, the slo[e reduces, making y"(x) and the other higher terms even smaller than previous values. So we get less and less error for larger value of x (As shown in error plot).

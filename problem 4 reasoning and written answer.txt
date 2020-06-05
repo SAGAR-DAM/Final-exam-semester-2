@@ -1,0 +1,6 @@
+Problem 4 written part:
+
+k_max=  0.4990234375
+k_min=  -0.5
+
+The result is true because the true distribution of the given data was uniformly random. Now for a uniform distribution (i.e all modes are present) the FT is a denta function. Like the FT of constant is delta. Hence the amplitude space is a delta spike. An power is it's square. That's also a delta function as given by the program...
